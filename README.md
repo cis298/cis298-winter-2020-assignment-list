@@ -8,3 +8,6 @@ Use this link to setup your [assignment 1](https://classroom.github.com/a/Ag9IGQ
 
 ## Assignment 2
 Use this link to setup your [assignment 2](https://classroom.github.com/a/-acuxozN)
+
+## Assignment 3
+Use this link to setup your [assignment 3](https://classroom.github.com/a/ZNx-NjLR)
